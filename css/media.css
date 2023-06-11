@@ -1,0 +1,86 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.slider2{
+	padding: 50px;
+	}
+	.slider2 h1 {
+    font-size: 25px;
+    }
+    .slider2 p {
+    font-size: 16px;
+	}
+	.slider2 button {
+    margin-bottom: 25px;
+	}
+	.car_indi2 {
+    bottom: 4%;
+	}
+	.car_indi2 [data-bs-target] {
+    width: 10px;
+    height: 10px;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.slider2{
+	padding: 55px;
+	}
+	.slider2 h1 {
+    font-size: 25px;
+    }
+    .slider2 p {
+    font-size: 18px;
+	}
+	.slider2 button {
+    margin-bottom: 30px;
+	}
+	.car_indi2 {
+    bottom: 6%;
+	}
+	.car_indi2 [data-bs-target] {
+    width: 10px;
+    height: 10px;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.slider2{
+	padding: 60px;
+	}
+	.slider2 h1 {
+    font-size: 25px;
+    }
+    .slider2 p {
+    font-size: 18px;
+	}
+	.slider2 button {
+    margin-bottom: 30px;
+	}
+	.car_indi2 {
+    bottom: 6%;
+	}
+	.car_indi2 [data-bs-target] {
+    width: 12px;
+    height: 12px;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.car_indi2 [data-bs-target] {
+    width: 13px;
+    height: 13px;
+	}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}

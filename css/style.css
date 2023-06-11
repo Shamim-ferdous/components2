@@ -1,0 +1,64 @@
+.c_prev {
+	left: 89% !important;
+    bottom: 5% !important;
+}
+.c_next {
+    right: 2% !important;
+    bottom: 5% !important;
+}
+.c_prev, .c_next {
+    top: 85%;
+    width: 5%;
+}
+.car_indi {;
+    right: 95%;
+    bottom: 60%;
+    left: -10%;
+    display: block;
+}
+.car_indi [data-bs-target] {
+    width: 15px;
+    height: 15px;
+ }
+
+ /*banner2*/
+.banner2{
+ 	background-image: url(../images/img8.jpg);
+ 	background-repeat: no-repeat;
+ 	background-position: center;
+ 	background-size: cover;
+ }
+.slider2{
+ 	background-color: rgba(1, 1, 1, .7);
+ 	color: white;
+ 	padding: 70px;
+ }
+.slider2 h1{
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.slider2 p{
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+.slider2 button{
+	margin-bottom: 100px;
+}
+.car_indi2 {
+    bottom: 8%;
+}
+.car_indi2 [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+
+
+
+
+ .btn_c{
+	background-color: cadetblue;
+	color: white;
+}
